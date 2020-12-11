@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StyleandTheme</string>
+    <string name="buy">buy</string>
+    <string name="my_name">my_name</string>
+    <string name="content_specs_size">specification</string>
+    <string name="seller">seller</string>
+    <string name="content_specs_battery">battery</string>
+    <string name="battery">battery</string>
+    <string name="size">size</string>
+    <string name="content_specs_display">content</string>
+    <string name="display">display</string>
+    <string name="specification">spesific</string>
+    <string name="content_text">content text</string>
+    <string name="stock">stock</string>
+    <string name="dummy_value">dummy</string>
+    <string name="dummy_photos">dummy</string>
+</resources>
